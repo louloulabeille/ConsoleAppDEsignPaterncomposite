@@ -53,10 +53,10 @@ namespace ConsoleAppDesignPaterncomposite.Metier
         }
     }
 
-    public class Raccourcie : Element
-    {
+    //public class Raccourcie : Element
+    //{
          
-    }
+    //}
 
 
 
